@@ -18,3 +18,5 @@ Select your Certificate and Provisioning Profiles
 Click start.
 
 select the file created by iOS App Signer.
+
+[github加速](https://juejin.cn/post/6862127015110934536)
