@@ -20,3 +20,5 @@ Click start.
 select the file created by iOS App Signer.
 
 [github加速](https://juejin.cn/post/6862127015110934536)
+
+比如ipa的下载地址可以用 [我愿称之为绝活](https://github.com/iOSleep/AFWealth/blob/master/AFWealth-6.9.0.600.ipa?raw=true)
